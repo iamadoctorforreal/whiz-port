@@ -1,6 +1,6 @@
 
 
-* {
+/** {
 	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
@@ -78,4 +78,12 @@ footer {
 
 footer li {
     justify-content: space-around;
+}*/
+
+
+form {
+    justify-content: center;
 }
+body {
+	position: relative;
+  }
